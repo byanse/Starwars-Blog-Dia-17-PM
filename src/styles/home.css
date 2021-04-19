@@ -59,3 +59,13 @@ body {
 .buttonsMenu {
   font-size: 2rem;
 }
+
+.etiqueta {
+  background: rgb(7, 9, 9);
+  background: linear-gradient(
+    0deg,
+    rgba(7, 9, 9, 1) 21%,
+    rgb(51, 168, 184) 100%
+  );
+  border-radius: 5px;
+}

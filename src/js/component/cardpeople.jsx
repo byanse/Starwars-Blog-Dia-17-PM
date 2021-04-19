@@ -27,5 +27,5 @@ Cards.propTypes = {
   eyeColor: PropTypes.string,
   gender: PropTypes.string,
   birthyear: PropTypes.string,
-  url: PropTypes.object
+  url: PropTypes.object,
 };
